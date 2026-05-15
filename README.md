@@ -44,8 +44,5 @@ Future Enhancements
 
 Application Screenshots
 
-
----
-
-## ✅ Conclusion
+Conclusion
 The Sante-Price Index application provides a practical and user-friendly solution for small vendors to manage product pricing efficiently. By integrating technology into traditional market systems, the application helps vendors make better pricing decisions while improving transparency and fairness in rural marketplaces.
