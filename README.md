@@ -43,6 +43,12 @@ Future Enhancements
 - Online payment integration
 
 Application Screenshots
+<img width="1080" height="2412" alt="signin" src="https://github.com/user-attachments/assets/5febdcc4-186c-4266-9b52-128ad1d179a8" />
+<img width="540" height="1206" alt="profit" src="https://github.com/user-attachments/assets/6a6a27cd-2700-4fa3-8d86-bfc8f9c94bff" />
+<img width="540" height="1206" alt="price " src="https://github.com/user-attachments/assets/cd27748b-765a-421f-8313-cd12a52e90a4" />
+<img width="540" height="1206" alt="mandi" src="https://github.com/user-attachments/assets/6dc9a907-742d-4f30-961a-5691a1927e88" />
+<img width="1080" height="2412" alt="dashboard" src="https://github.com/user-attachments/assets/96ef5ec5-1a0c-4c2b-b0fc-af284cdc7db8" />
 
 Conclusion
+
 The Sante-Price Index application provides a practical and user-friendly solution for small vendors to manage product pricing efficiently. By integrating technology into traditional market systems, the application helps vendors make better pricing decisions while improving transparency and fairness in rural marketplaces.
